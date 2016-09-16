@@ -1,3 +1,10 @@
+---
+layout: drama
+title: Masse Mensch
+author: Ernst Toller
+publication-date: 1920
+source: "http://gutenberg.spiegel.de/buch/masse-mensch-3537/1"
+---
 Erstes Bild
 Hinterzimmer einer Arbeiterschenke.
 An getünchten Wänden Kriegervereinsbilder und Porträts von Heroen der Masse. In der Mitte ein klotziger Tisch, um den eine Frau und die Arbeiter sitzen.
